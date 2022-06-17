@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LDI/JSC7TwPX1pGFVDMB4BBsZY3C26Gri2kx3Ouvcbto7YnAHhnnzZFZjlgJbwQul8hge8bPyewHKiTGok+AQ==",
+  "success": true,
+  "projectFilePath": "/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/UsoDeMatriz.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenetcode/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

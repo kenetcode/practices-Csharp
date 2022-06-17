@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/bin/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Estudiantes_Sobresalientes/obj/Debug/netcoreapp3.1/Estudiantes_Sobresalientes.genruntimeconfig.cache

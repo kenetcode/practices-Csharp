@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/bin/Debug/netcoreapp3.1/LeerArchivo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/obj/Debug/netcoreapp3.1/LeerArchivo.genruntimeconfig.cache

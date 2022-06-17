@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/bin/Debug/netcoreapp3.1/Cuota_Universitaria.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/obj/Debug/netcoreapp3.1/Cuota_Universitaria.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparacionDeVectores", "ComparacionDeVectores.csproj", "{9500369B-1F32-44E7-BA08-8F8EFDDE0741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9500369B-1F32-44E7-BA08-8F8EFDDE0741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9500369B-1F32-44E7-BA08-8F8EFDDE0741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9500369B-1F32-44E7-BA08-8F8EFDDE0741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9500369B-1F32-44E7-BA08-8F8EFDDE0741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30231604-B123-44A8-BF0A-126D28125729}
+	EndGlobalSection
+EndGlobal

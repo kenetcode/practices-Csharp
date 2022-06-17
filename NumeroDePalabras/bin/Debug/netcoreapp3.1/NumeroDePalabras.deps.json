@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumeroDePalabras/1.0.0": {
+        "runtime": {
+          "NumeroDePalabras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumeroDePalabras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

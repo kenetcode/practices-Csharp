@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/bin/Debug/netcoreapp3.1/NumeroDePalabras.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/obj/Debug/netcoreapp3.1/NumeroDePalabras.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/bin/Debug/netcoreapp3.1/Edades_De_Estudiantes.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Edades_De_Estudiantes/obj/Debug/netcoreapp3.1/Edades_De_Estudiantes.genruntimeconfig.cache

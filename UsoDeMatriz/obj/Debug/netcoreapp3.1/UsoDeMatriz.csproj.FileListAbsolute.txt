@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/bin/Debug/netcoreapp3.1/UsoDeMatriz.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/UsoDeMatriz/obj/Debug/netcoreapp3.1/UsoDeMatriz.genruntimeconfig.cache

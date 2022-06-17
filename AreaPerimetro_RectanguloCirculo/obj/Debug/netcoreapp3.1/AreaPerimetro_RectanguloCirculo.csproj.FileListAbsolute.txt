@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/bin/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaPerimetro_RectanguloCirculo/obj/Debug/netcoreapp3.1/AreaPerimetro_RectanguloCirculo.genruntimeconfig.cache

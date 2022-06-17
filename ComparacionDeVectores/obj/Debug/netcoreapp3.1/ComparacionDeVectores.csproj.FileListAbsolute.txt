@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/bin/Debug/netcoreapp3.1/ComparacionDeVectores.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/ComparacionDeVectores/obj/Debug/netcoreapp3.1/ComparacionDeVectores.genruntimeconfig.cache

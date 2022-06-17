@@ -1,0 +1,24 @@
+
+Estudiante con los datos: 
+
+Carnet : OP20001
+
+Estatura en cm: 169cm
+
+Nota final: 10
+
+Estudiante con los datos: 
+
+Carnet : GO20004
+
+Estatura en cm: 159cm
+
+Nota final: 10
+
+Estudiante con los datos: 
+
+Carnet : RA20003
+
+Estatura en cm: 172cm
+
+Nota final: 10

@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/bin/Debug/netcoreapp3.1/CostoProducto.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/CostoProducto/obj/Debug/netcoreapp3.1/CostoProducto.genruntimeconfig.cache

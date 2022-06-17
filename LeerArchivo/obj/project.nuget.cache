@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JlgE3hCDNT0Lb/z1WxZP8+hRLpoBPTmvXWXDoADgO0VxVUd2MDOw+mp+xCgTQM83cVfaOBA7SmH69l7Y26oS6A==",
+  "success": true,
+  "projectFilePath": "/Users/kenetcode/personal-Projects/practices-Csharp/LeerArchivo/LeerArchivo.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenetcode/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

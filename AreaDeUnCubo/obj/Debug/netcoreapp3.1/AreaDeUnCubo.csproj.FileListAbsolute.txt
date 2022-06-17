@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/bin/Debug/netcoreapp3.1/AreaDeUnCubo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/AreaDeUnCubo/obj/Debug/netcoreapp3.1/AreaDeUnCubo.genruntimeconfig.cache

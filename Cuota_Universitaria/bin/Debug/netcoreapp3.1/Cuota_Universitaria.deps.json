@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cuota_Universitaria/1.0.0": {
+        "runtime": {
+          "Cuota_Universitaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cuota_Universitaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

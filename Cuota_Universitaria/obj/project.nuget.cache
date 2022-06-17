@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+ASMAa6B/LqSV06+JCjC2Mj7g1eHU9oRp7FvCUGEHUCx2/+Ef90HICVZi9mkyCfHtM2lJ1Hl1B6Z2ZDwTC55Q==",
+  "success": true,
+  "projectFilePath": "/Users/kenetcode/personal-Projects/practices-Csharp/Cuota_Universitaria/Cuota_Universitaria.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenetcode/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

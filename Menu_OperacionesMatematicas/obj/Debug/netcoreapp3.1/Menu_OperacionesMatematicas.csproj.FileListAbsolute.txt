@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/bin/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/Menu_OperacionesMatematicas/obj/Debug/netcoreapp3.1/Menu_OperacionesMatematicas.genruntimeconfig.cache

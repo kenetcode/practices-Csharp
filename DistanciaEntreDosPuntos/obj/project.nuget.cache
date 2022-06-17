@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ou7OptieEl07tDd0KnyLM8x1lyS5ueNKRjkuamMXSM2x321/o9RYZMG7joy4KaEvsKpjlLpbQFOS2yj7LfaQ+w==",
+  "success": true,
+  "projectFilePath": "/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/DistanciaEntreDosPuntos.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenetcode/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

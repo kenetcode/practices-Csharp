@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kenetcode/.dotnet/store/|arch|/|tfm|",
+      "/Users/kenetcode/.nuget/packages"
+    ]
+  }
+}

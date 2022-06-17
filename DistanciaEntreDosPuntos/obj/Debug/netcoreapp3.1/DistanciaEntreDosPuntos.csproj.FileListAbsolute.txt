@@ -1,0 +1,14 @@
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.deps.json
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.runtimeconfig.json
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.runtimeconfig.dev.json
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/bin/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.csproj.AssemblyReference.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.AssemblyInfoInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.AssemblyInfo.cs
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.csproj.CoreCompileInputs.cache
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.dll
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.pdb
+/Users/kenetcode/personal-Projects/practices-Csharp/DistanciaEntreDosPuntos/obj/Debug/netcoreapp3.1/DistanciaEntreDosPuntos.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Le2iDWEULTSbl3gGxzN9tNXJOtxiqzx+lJyVpsVgZKpvJRYlBG1VpcJ4Obh4IdWe25GQhFcr66LvI+U5ex3RSQ==",
+  "success": true,
+  "projectFilePath": "/Users/kenetcode/personal-Projects/practices-Csharp/NumeroDePalabras/NumeroDePalabras.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenetcode/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/kenetcode/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
